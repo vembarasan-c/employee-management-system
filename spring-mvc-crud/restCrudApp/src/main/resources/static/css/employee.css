@@ -1,0 +1,28 @@
+
+body{
+    font-family: verdana;
+}
+
+h1{
+    text-align:center;
+}
+
+        /***  list-employees ***/
+
+.header{
+    margin-top:20px;
+    text-align:center;
+}
+
+.link{
+    display:flex;
+    justify-content: right;
+}
+
+        /***  Employee-form ***/
+
+.operation{
+    display:flex;
+    justify-content:space-evenly;
+}
+
